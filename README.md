@@ -33,3 +33,5 @@ Launch with "Palindrome.exe".
 
     *Climb walls by holding direction and jump
 
+## Known Bug
+If a player dies due to time reversal effects while the other is reviving, it may cause invalid health values. 

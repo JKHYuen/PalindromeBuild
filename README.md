@@ -7,6 +7,9 @@
 
 *Palindrome* is a PVP 2D arena shooter, featuring time reversing mechanics inspired by the movie *TENET*. Each player can start rewinding their individual timeline at any point during combat. This demo provides a complete gameplay loop for *two local players* with scoring and round logic. *This proof of concept requires one player to be on keyboard and the other on controller.*
 
+## To Start:
+Launch with "Palindrome.exe".
+
 ## Controls
     Player 1 (Mouse and keyboard):
     Q: Start reversing time
@@ -29,7 +32,4 @@
     Square / X: Reload
 
     *Climb walls by holding direction and jump
-    
-## To Start:
-Launch with "Palindrome.exe".
 
